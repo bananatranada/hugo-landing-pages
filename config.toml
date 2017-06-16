@@ -1,0 +1,8 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "My New Hugo Site"
+languageCode = "en-us"
+
+[params]
+    site_a = "site_a"
+
+# set up archetype so you can do: hugo new <asdgsa>

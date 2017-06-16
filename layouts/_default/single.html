@@ -1,0 +1,7 @@
+{{ define "main" }}
+single
+if .Params.nav then show
+
+{{ partial "header.html" . }}
+{{.Content}}
+{{ end }}
